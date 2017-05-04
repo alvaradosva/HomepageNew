@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon">
+            <g id="favicon-copy" fill="#48C0EB">
+                <circle id="Oval-Copy" cx="8" cy="8" r="8"></circle>
+            </g>
+            <text id="BL" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="9" font-weight="normal" letter-spacing="-0.397500008" fill="#FFFFFF">
+                <tspan x="2.3999939" y="11.3999939">BL</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
