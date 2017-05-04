@@ -1,2 +1,0 @@
-# HomepageNew
-New Homepage
