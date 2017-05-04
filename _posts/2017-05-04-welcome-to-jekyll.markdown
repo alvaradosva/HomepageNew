@@ -1,16 +1,6 @@
 ---
-title: Welcome to Jekyll!
-date: 2017-05-03 23:05:25 Z
-categories:
-- jekyll
-- update
-layout: post
-<<<<<<< HEAD:_posts/2015-04-29-welcome-to-jekyll.markdown
-title:  "Welcome to Jekyll!"
-date:   2015-04-29 09:45:36
-categories: jekyll update
-=======
->>>>>>> origin/gh-pages:_posts/2017-05-03-welcome-to-jekyll.markdown
+title: 2015 04 29 Welcome To Jekyll
+date: 2017-05-04 15:45:16.610000000 Z
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
