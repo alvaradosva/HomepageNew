@@ -1,9 +1,18 @@
 ---
+title: Welcome to Jekyll!
+date: 2017-05-03 23:05:25 Z
+categories:
+- jekyll
+- update
 layout: post
+<<<<<<< HEAD:_posts/2015-04-29-welcome-to-jekyll.markdown
 title:  "Welcome to Jekyll!"
 date:   2015-04-29 09:45:36
 categories: jekyll update
+=======
+>>>>>>> origin/gh-pages:_posts/2017-05-03-welcome-to-jekyll.markdown
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
