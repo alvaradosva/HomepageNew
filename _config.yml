@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: WebConfs - A blog about web conferences
 email: coolwebconfs@gmail.com
@@ -8,3 +9,15 @@ twitter_username: guilh
 # Build settings
 markdown: kramdown
 permalink: /:title
+=======
+---
+title: Your awesome title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+>>>>>>> origin/gh-pages
